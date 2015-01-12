@@ -43,4 +43,3 @@ set history=1000
 
 execute pathogen#infect()
 call pathogen#helptags()
-
